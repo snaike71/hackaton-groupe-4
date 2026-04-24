@@ -138,3 +138,7 @@ Notebook : [notebooks/medical_finetune.ipynb](notebooks/medical_finetune.ipynb)
 - **Chat OpenAI-compat** : `POST /v1/chat/completions`
 - **Liste modèles** : `GET /api/tags`
 - **Health** : `GET /` → "Ollama is running" 
+
+
+## 🎬 Démonstration
+https://drive.google.com/file/d/1t0hiijyiA6kwlg1TjQRADOzkOPm40RNJ/view?usp=sharing
