@@ -130,7 +130,7 @@ Notebook : [notebooks/medical_finetune.ipynb](notebooks/medical_finetune.ipynb)
 - **Durée** : ~15 min d'entraînement
 - **Statut** : PoC R&D — non déployé en production
 
----
+--- 
 
 ## 🎬 Plan de la vidéo de démo (7 min max)
 
