@@ -69,7 +69,7 @@
 
 ---
 
-### 3:00 – 4:30 — Audit sécurité & tests d'injection (Cyber — Ismail)
+### 3:00 – 4:30 — Audit sécurité & tests d'injection (Cyber — Kevin)
 
 > **Texte :**  
 > « En auditant les fichiers laissés par l'équipe précédente, nous avons découvert une **backdoor** dans le modèle fine-tuné. La preuve est dans les logs d'entraînement et dans des conversations Slack archivées. »
@@ -89,7 +89,7 @@
 
 ---
 
-### 4:30 – 5:30 — Nettoyage du dataset (Data — Ismail)
+### 4:30 – 5:30 — Nettoyage du dataset (Data — Arnaud)
 
 > **Texte :**  
 > « Le dataset de test hérité contient 16 000 entrées. Notre script de filtrage a détecté que **12,4 %** sont polluées : PII, credentials, smart contracts Solidity, contenu hors-domaine financier. »
@@ -103,7 +103,7 @@
 
 ---
 
-### 5:30 – 6:30 — Fine-tuning médical (IA / R&D — Ismail)
+### 5:30 – 6:30 — Fine-tuning médical (IA / R&D — Tous)
 
 > **Texte :**  
 > « En bonus, nous avons fine-tuné un modèle médical expérimental avec LoRA sur Colab T4. Base : TinyLlama 1.1B, dataset : `ruslanmv/ai-medical-chatbot`, 2 000 conversations, 1 epoch. »
