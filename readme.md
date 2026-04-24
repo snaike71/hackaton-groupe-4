@@ -103,7 +103,7 @@ hackaton-groupe-4/
 | Pôle | Étudiant | Livrable |
 | --- | --- | --- |
 | **INFRA** | Nathan PLOTTON | Serveur Ollama Debian/Docker + tunnel Cloudflare |
-| **DEV WEB** | Ismail | `webapp/index.html` |
+| **DEV WEB** | Ismail/Kévin/Arnaud | `webapp/index.html` |
 | **DATA** | Ismail | `scripts/clean_dataset.py` + `datasets/quality_report.md` |
 | **CYBER** | Ismail | `AUDIT.md` + `scripts/test_security.sh` |
 | **IA / R&D** | Ismail | `notebooks/medical_finetune.ipynb` |
