@@ -132,20 +132,6 @@ Notebook : [notebooks/medical_finetune.ipynb](notebooks/medical_finetune.ipynb)
 
 --- 
 
-## 🎬 Plan de la vidéo de démo (7 min max)
-
-| Temps | Contenu | Présenté par |
-| ---: | --- | --- |
-| 0:00 – 0:30 | Contexte TechCorp + équipe | tous |
-| 0:30 – 1:30 | Démo UI chat live (3 questions financières) | Dev Web |
-| 1:30 – 3:00 | Architecture Ollama / Cloudflare / Modelfile | Infra |
-| 3:00 – 4:30 | Audit : backdoor + dataset pollué + tests injection live | Cyber |
-| 4:30 – 5:30 | Nettoyage dataset + métriques qualité | Data |
-| 5:30 – 6:30 | Fine-tuning médical (Colab + inference) | IA |
-| 6:30 – 7:00 | Conclusion + roadmap production | tous |
-
----
-
 ## 📌 Endpoints utiles
 
 - **API publique** : `https://besides-withdrawal-realm-frog.trycloudflare.com`
