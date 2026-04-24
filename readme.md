@@ -16,7 +16,7 @@ cd webapp
 python3 -m http.server 8080
 # puis ouvrir http://localhost:8080
 ```
-
+...
 L'interface se connecte par défaut au tunnel public Cloudflare où tourne notre serveur Ollama. Modifiable dans le panneau **⚙️ Paramètres** de l'UI.
 
 ### 2. Vérifier la sécurité du modèle
