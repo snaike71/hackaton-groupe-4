@@ -106,7 +106,7 @@ hackaton-groupe-4/
 | **DEV WEB** | Ismail/Kévin/Arnaud | `webapp/index.html` |
 | **DATA** | Arnaud | `scripts/clean_dataset.py` + `datasets/quality_report.md` |
 | **CYBER** | Kévin | `AUDIT.md` + `scripts/test_security.sh` |
-| **IA / R&D** | Ismail | `notebooks/medical_finetune.ipynb` |
+| **IA / R&D** | Bintou | `notebooks/medical_finetune.ipynb` |
 
 ---
 
