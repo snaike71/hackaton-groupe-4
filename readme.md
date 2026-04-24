@@ -151,4 +151,4 @@ Notebook : [notebooks/medical_finetune.ipynb](notebooks/medical_finetune.ipynb)
 - **API publique** : `https://besides-withdrawal-realm-frog.trycloudflare.com`
 - **Chat OpenAI-compat** : `POST /v1/chat/completions`
 - **Liste modèles** : `GET /api/tags`
-- **Health** : `GET /` → "Ollama is running"
+- **Health** : `GET /` → "Ollama is running" 
