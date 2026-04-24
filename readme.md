@@ -137,6 +137,7 @@
 ### 📁 **Architecture du Projet**
 ```
 techcorp-ai-chat/
+├── rendu/web/                  # Interface chat + proxy Ollama (voir rendu/web/README.md)
 ├── tritton_server/              # Configuration Triton Inference Server
 ├── models/         # Modèle Phi-3.5-Financial
 ├── medical_dataset/            # Dataset pour fine-tuning médical expérimental
