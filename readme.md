@@ -38,6 +38,23 @@ python3 scripts/clean_dataset.py
 
 ## 🏗️ Architecture
 
+```mermaid
+flowchart LR
+    U[Utilisateur<br/>navigateur] -->|HTTPS<br/>/v1/chat/completions<br/>SSE streaming| CF[Cloudflare<br/>Tunnel]
+    CF --> D[Debian 12<br/>Docker]
+    D --> O[Ollama 0.21<br/>+ phi3 Q4_0]
+    subgraph Local
+      U
+    end
+    subgraph Cloud
+      CF
+    end
+    subgraph Serveur Nathan
+      D
+      O
+    end
+```
+
 ```
 ┌──────────────────┐     HTTPS     ┌────────────────────┐     ┌──────────────┐
 │  webapp/         │ ─────────────▶│  Cloudflare Tunnel │────▶│  Ollama      │
